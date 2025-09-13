@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, ChefHat, Plus, Minus, X, Users, Star, Sparkles, Zap } from 'lucide-react';
+import { Search, ChefHat, Minus, X, Users, Star, Sparkles, Zap } from 'lucide-react';
 
 // Mock data with enhanced structure
 const mockDishes = [
